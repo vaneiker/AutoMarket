@@ -1,0 +1,59 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# Logs
+*.log
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]pp[Pp]ackages/
+[Bb]in/
+[Oo]bj/
+
+# ASP.NET specific files
+_AppStart/
+_AppData/
+_PackageTmp/
+project.lock.json
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Resharper files
+*_Resharper*
+
+# Windows specific files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# IIS
+[Ii][Nn]et[Pp]ub/
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Rider
+.idea/
+*.sln.iml
+
+# Publish directory
+publish/
+
+# Configuration files
+appsettings*.json
