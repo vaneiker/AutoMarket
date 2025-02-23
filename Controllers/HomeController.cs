@@ -15,6 +15,7 @@ namespace AutoMarket.Controllers
 
             return View();
         } 
+        //Car action method
         public ActionResult Car()
         {
             return View();
