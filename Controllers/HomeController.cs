@@ -8,6 +8,7 @@ namespace AutoMarket.Controllers
 {
     public class HomeController : Controller
     {
+        //Index action method
         public ActionResult Index()
         {
             ViewBag.Title = "Home Page";
